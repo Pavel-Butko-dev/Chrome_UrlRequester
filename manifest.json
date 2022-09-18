@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "UrlRequester",
+    "description": "Request to url",
+    "version": "1.0",
+     "action": {
+    "default_title": "Click to view a popup",
+    "default_popup": "popup.html"
+    },
+    "icons":{
+        "16": "/images/ic16.png",
+        "48": "/images/ic48.png",
+        "128": "/images/ic128.png"
+    },
+    "permissions": [
+    "storage"
+    ]
+
+
+}
